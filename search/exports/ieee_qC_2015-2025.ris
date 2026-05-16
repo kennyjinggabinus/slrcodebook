@@ -1,0 +1,73 @@
+TY  - CONF
+TI  - Machine Learning-Driven Container Scheduling for Edge-Empowered Microservices
+T2  - 2025 IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)
+SP  - 1
+EP  - 6
+AU  - O. Baker
+AU  - W. Li
+AU  - H. Ma
+AU  - K. Subaramaniam
+AU  - D. Lopez
+AU  - S. Palaniappan
+PY  - 2025
+KW  - Job shop scheduling
+KW  - Processor scheduling
+KW  - Service robots
+KW  - Microservice architectures
+KW  - Machine learning
+KW  - Computer architecture
+KW  - Containers
+KW  - Nearest neighbor methods
+KW  - Bayes methods
+KW  - Edge computing
+KW  - Edge computing
+KW  - microservices architecture
+KW  - container scheduling strategy
+KW  - K-nearest neighbours
+KW  - Bayesian personalised ranking
+DO  - 10.1109/ROBOTHIA63806.2025.10986316
+JO  - 2025 IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)
+Y1  - 12-12 April 2025
+AB  - This research investigates the integration of machine learning technology into microservices architectures for edge-enabled container scheduling strategies. Deploying microservices applications can be intricate, while container virtualisation technology solves environmental complexities. However, container scheduling strategies remain challenging, and machine learning techniques can be leveraged to rapidly and rationally adjust strategies for different services. A comparative analysis of container scheduling strategies with and without machine learning demonstrates a 60.6% improvement in scheduling speed. The evaluation includes two algorithms: K-Nearest Neighbours (KNN) and Bayesian Personalised Ranking (BPR). Results indicate that BPR outperforms KNN, achieving an 11.1% increase in speed, particularly for large-scale datasets. These improvements highlight BPR's effectiveness in edge computing environments, where containerised microservices operate closer to data sources and end-users. Additionally, the proposed control strategy minimises resource allocation errors and enhances system scalability. The findings provide a framework for integrating machine learning into edge-native microservices architectures, optimising container scheduling for edge computing scenarios.
+ER  - 
+
+TY  - CONF
+TI  - The Construction of Intelligent Learning System based on Deep Learning and Personalized Learning Recommendation Algorithm
+T2  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+SP  - 1
+EP  - 6
+AU  - B. Wang
+AU  - Z. Qu
+AU  - L. Gan
+PY  - 2025
+KW  - Learning systems
+KW  - Training
+KW  - Accuracy
+KW  - Computational modeling
+KW  - System performance
+KW  - Computer architecture
+KW  - Real-time systems
+KW  - Data models
+KW  - Robustness
+KW  - Time factors
+KW  - LSTM-attention-GCN
+KW  - intelligent learning system
+KW  - personalized learning
+KW  - system response time
+DO  - 10.1109/ICICKE65317.2025.11136557
+JO  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+Y1  - 6-7 June 2025
+AB  - Traditional learning systems have problems such as low recommendation accuracy and difficulty in adapting to changes in learning status in real time. This study proposes a smart learning system based on deep learning, which adopts a three-layer architecture design of "data-algorithm-service". The data layer builds a real-time data lake based on Delta Lake to integrate multimodal data; the algorithm layer designs an LSTM-Attention-GCN hybrid model, whose output constitutes the state space of the deep reinforcement learning recommender (DRL-PLR). The recommender adopts a dual DQN architecture and introduces cognitive load constraints; the service layer encapsulates the recommendation engine as a high-performance microservice, realizes automatic expansion and contraction based on Kubernetes, and combines Flink for stateful computing. The average recommendation accuracy of the intelligent learning system proposed in this study is 87.18%, the system response time is stable in the range of 202~431 milliseconds, and the knowledge path coverage rate reaches 91%~99.9%, which has high practicality in the field of personalized learning recommendation.
+ER  - 
+
+

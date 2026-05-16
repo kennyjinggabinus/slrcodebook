@@ -1,0 +1,360 @@
+%0 Conference Paper
+%T Knowledge Graph-Based Recommendation System for Personalized E-Learning
+%@ 9798400704666
+%U https://doi.org/10.1145/3631700.3665229
+%R 10.1145/3631700.3665229
+%B Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization
+%I Association for Computing Machinery
+%A Duaa Baig
+%A Diana Nurbakova
+%A Baba Mbaye
+%A Sylvie Calabretto
+%D 2024
+%P 561–566
+%K E-Learning, Education, Knowledge Graphs, Machine Learning, Recommendation System
+%C Cagliari, Italy
+
+%0 Conference Paper
+%T Clustering collaborative filtering approach for Diftari E-Learning platform' recommendation system
+%@ 9781450364621
+%U https://doi.org/10.1145/3289402.3289535
+%R 10.1145/3289402.3289535
+%B Proceedings of the 12th International Conference on Intelligent Systems: Theories and Applications
+%I Association for Computing Machinery
+%A Jamal Mawane
+%A Abdelwahab Naji
+%A Mohammed Ramdani
+%D 2018
+%P Article 35
+%K Adaptation, Collaborative, Filtering, Homogeneity, Hybrid, Learning, Personalization, Recommendation System (RS)
+%C Rabat, Morocco
+
+%0 Conference Paper
+%T Recommender E-Learning platform using sentiment analysis aggregation
+%@ 9781450377331
+%U https://doi.org/10.1145/3419604.3419784
+%R 10.1145/3419604.3419784
+%B Proceedings of the 13th International Conference on Intelligent Systems: Theories and Applications
+%I Association for Computing Machinery
+%A Jamal Mawane
+%A Abdelwahab Naji
+%A Mohamed Ramdani
+%D 2020
+%P Article 23
+%K Bonus System, Clustering, Collaborative Filtering, Deep Unsupervised learning, E-learning, Recommendation Systems, Sentiment Analyser
+%C Rabat, Morocco
+
+%0 Conference Paper
+%T A MOOC Courses Recommendation System Based on Learning Behaviours
+%@ 9781450375344
+%U https://doi.org/10.1145/3393527.3393550
+%R 10.1145/3393527.3393550
+%B Proceedings of the ACM Turing Celebration Conference - China
+%I Association for Computing Machinery
+%A Shengjun Yin
+%A Kailai Yang
+%A Hongzhi Wang
+%D 2020
+%P 133–137
+%K Learning Behaviours, Mooc, Recommendation System
+%C Hefei, China
+
+%0 Conference Paper
+%T A Novel and Integrated Semantic Recommendation System for E-Learning using Ontology
+%@ 9781450339629
+%U https://doi.org/10.1145/2905055.2905110
+%R 10.1145/2905055.2905110
+%B Proceedings of the Second International Conference on Information and Communication Technology for Competitive Strategies
+%I Association for Computing Machinery
+%A Mugdha Sharma
+%A Laxmi Ahuja
+%D 2016
+%P Article 52
+%K Cold-start problem, Collaborative filtering, E-learning, Ontology, Recommender system, Semantic web, User profiling
+%C Udaipur, India
+
+%0 Conference Paper
+%T Machine Learning Algorithms for Recommendation of Learning CS Courses in E-Learning Systems
+%@ 9781450396837
+%U https://doi.org/10.1145/3561877.3561899
+%R 10.1145/3561877.3561899
+%B Proceedings of the 5th International Conference on Information Science and Systems
+%I Association for Computing Machinery
+%A Ngai Cheong
+%D 2022
+%P 136–141
+%K Computer Science, E-Learning Environments, Machine Learning Algorithms, Non-CS Majors, Personalized Learning Path, Recommender Systems
+%C Beijing, China
+
+%0 Journal Article
+%T Ontology-based E-learning Content Recommender System for Addressing the Pure Cold-start Problem
+%V 13
+%@ 1936-1955
+%U https://doi.org/10.1145/3429251
+%R 10.1145/3429251
+%N 3
+%J J. Data and Information Quality
+%I Association for Computing Machinery
+%A Jeevamol Joy
+%A Nisha S. Raj
+%A Renumol V. G.
+%D 2021
+%P Article 16
+%K Learner profile, learning object, personalized learning environment, pure cold-start problem, content recommenders, ontology, multivariate clustering
+
+%0 Conference Paper
+%T Recommender System for E-Learning through Content and Profile Based Approach
+%@ 9781450339629
+%U https://doi.org/10.1145/2905055.2905103
+%R 10.1145/2905055.2905103
+%B Proceedings of the Second International Conference on Information and Communication Technology for Competitive Strategies
+%I Association for Computing Machinery
+%A S. Venugopalan
+%A M. V. Srinath
+%A Paul Rodrigues
+%D 2016
+%P Article 45
+%C Udaipur, India
+
+%0 Conference Paper
+%T Integration of data mining techniques in e-learning systems: Clustering Profil of Lerners and Recommender Course System
+%@ 9781450348522
+%U https://doi.org/10.1145/3090354.3090453
+%R 10.1145/3090354.3090453
+%B Proceedings of the 2nd international Conference on Big Data, Cloud and Applications
+%I Association for Computing Machinery
+%A A. El Moustamid
+%A E. En-Naimi
+%A J. El Bouhdidi
+%D 2017
+%P Article 97
+%K Audio, Data Mining, E-Learning, Image, Indexing multimedia data, Video
+%C Tetouan, Morocco
+
+%0 Conference Paper
+%T Finding Paths for Explainable MOOC Recommendation: A Learner Perspective
+%@ 9798400716188
+%U https://doi.org/10.1145/3636555.3636898
+%R 10.1145/3636555.3636898
+%B Proceedings of the 14th Learning Analytics and Knowledge Conference
+%I Association for Computing Machinery
+%A Jibril Frej
+%A Neel Shah
+%A Marta Knezevic
+%A Tanya Nazaretsky
+%A Tanja Käser
+%D 2024
+%P 426–437
+%K Explainable AI, MOOCs, Recommendation, User study
+%C Kyoto, Japan
+
+%0 Conference Paper
+%T MOOC Recommendation Using Heterogeneous Graph Neural Network and Attention Mechanism
+%@ 9798400707674
+%U https://doi.org/10.1145/3641584.3641792
+%R 10.1145/3641584.3641792
+%B Proceedings of the 2023 6th International Conference on Artificial Intelligence and Pattern Recognition
+%I Association for Computing Machinery
+%A Yan Zhao
+%A Yadian Zheng
+%D 2024
+%P 1376–1381
+%C Xiamen, China
+
+%0 Conference Paper
+%T Course-Driven Teacher Modeling for Learning Objects Recommendation in the Moodle LMS
+%@ 9781450350679
+%U https://doi.org/10.1145/3099023.3099037
+%R 10.1145/3099023.3099037
+%B Adjunct Publication of the 25th Conference on User Modeling, Adaptation and Personalization
+%I Association for Computing Machinery
+%A Carlo De Medio
+%A Fabio Gasparetti
+%A Carla Limongelli
+%A Filippo Sciarrone
+%A Marco Temperini
+%D 2017
+%P 141–145
+%K teacher model, recommender systems, lms
+%C Bratislava, Slovakia
+
+%0 Conference Paper
+%T Research on Improvement Scheme of MOOC Based on Sequential Recommendation Algorithm and Big Data
+%@ 9781450396196
+%U https://doi.org/10.1145/3535735.3535737
+%R 10.1145/3535735.3535737
+%B Proceedings of the 7th International Conference on Information and Education Innovations
+%I Association for Computing Machinery
+%A Zhang Tian Le
+%A Ren Weixin
+%A Zhang Yue
+%D 2022
+%P 13–17
+%K MOOC, big data, sequential recommendation algorithm, undergraduate education
+%C Belgrade, Serbia
+
+%0 Conference Paper
+%T Learning Preference Recommendation with Heterogeneous Graph Neural Networks in MOOC
+%@ 9781450384087
+%U https://doi.org/10.1145/3488933.3488990
+%R 10.1145/3488933.3488990
+%B Proceedings of the 2021 4th International Conference on Artificial Intelligence and Pattern Recognition
+%I Association for Computing Machinery
+%A Shuyan Wang
+%A Yaping Li
+%D 2022
+%P 629–635
+%K Semantic Attention Mechanism, Residual Connection, MOOC Recommendation, Heterogeneous Information Networks, Graph Neural Networks
+%C Xiamen, China
+
+%0 Conference Paper
+%T Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs
+%@ 9798400701719
+%U https://doi.org/10.1145/3589334.3645559
+%R 10.1145/3589334.3645559
+%B Proceedings of the ACM Web Conference 2024
+%I Association for Computing Machinery
+%A Hengnian Gu
+%A Zhiyi Duan
+%A Pan Xie
+%A Dongdai Zhou
+%D 2024
+%P 3712–3722
+%K attention mechanism, contrastive learning, explicit and implicit relations, knowledge concept recommendation
+%C Singapore, Singapore
+
+%0 Conference Paper
+%T Recommender System to Support MOOCs Teachers: Framework based on Ontology and Linked Data
+%@ 9781450377331
+%U https://doi.org/10.1145/3419604.3419619
+%R 10.1145/3419604.3419619
+%B Proceedings of the 13th International Conference on Intelligent Systems: Theories and Applications
+%I Association for Computing Machinery
+%A Hanane Sebbaq
+%A Nour-eddine el Faddouli
+%A Samir Bennani
+%D 2020
+%P Article 18
+%K Semantic similarity, Semantic Web, Recommender System, Ontology mapping, Ontology, MOOC, Linked Data
+%C Rabat, Morocco
+
+%0 Journal Article
+%T Reinforced MOOCs Concept Recommendation in Heterogeneous Information Networks
+%V 17
+%@ 1559-1131
+%U https://doi.org/10.1145/3580510
+%R 10.1145/3580510
+%N 3
+%J ACM Trans. Web
+%I Association for Computing Machinery
+%A Jibing Gong
+%A Yao Wan
+%A Ye Liu
+%A Xuewen Li
+%A Yi Zhao
+%A Cheng Wang
+%A Yuting Lin
+%A Xiaohan Fang
+%A Wenzheng Feng
+%A Jingyi Zhang
+%A Jie Tang
+%D 2023
+%P Article 22
+%K concept recommendation, MOOCs, reinforcement learning, HIN
+
+%0 Conference Paper
+%T Toward a Deep Recommender System for MOOCs Platforms
+%@ 9781450372534
+%U https://doi.org/10.1145/3369114.3369157
+%R 10.1145/3369114.3369157
+%B Proceedings of the 3rd International Conference on Advances in Artificial Intelligence
+%I Association for Computing Machinery
+%A Khaoula Mrhar
+%A Mounia Abik
+%D 2020
+%P 173–177
+%K e-learning, deep learning, Semantic Similarity, Recommender System, MOOCs, LSTM
+%C Istanbul, Turkey
+
+%0 Conference Paper
+%T Flexible Learning with Semantic Visual Exploration and Sequence-Based Recommendation of MOOC Videos
+%@ 9781450356206
+%U https://doi.org/10.1145/3173574.3173903
+%R 10.1145/3173574.3173903
+%B Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Jian Zhao
+%A Chidansh Bhatt
+%A Matthew Cooper
+%A David A. Shamma
+%D 2018
+%P Paper 329
+%K visualization, recommender system, mooc videos
+%C Montreal QC, Canada
+
+%0 Conference Paper
+%T The hybrid recommendation of digital educational resources in a distance learning environment: the case of MOOC
+%@ 9781450377331
+%U https://doi.org/10.1145/3419604.3419621
+%R 10.1145/3419604.3419621
+%B Proceedings of the 13th International Conference on Intelligent Systems: Theories and Applications
+%I Association for Computing Machinery
+%A Hamid Slimani
+%A Oussama Hamal
+%A Nour-eddine El faddouli
+%A Samir Bennani
+%A Naila Amrous
+%D 2020
+%P Article 19
+%K semantic web, linked data, digital educational resources, TF-IDF, Salton's Cosine, SPARQL, Recommendation system, Jaccard Index/Similarity Coefficient
+%C Rabat, Morocco
+
+%0 Conference Paper
+%T Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View
+%@ 9781450380164
+%U https://doi.org/10.1145/3397271.3401057
+%R 10.1145/3397271.3401057
+%B Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
+%I Association for Computing Machinery
+%A Jibing Gong
+%A Shen Wang
+%A Jinlong Wang
+%A Wenzheng Feng
+%A Hao Peng
+%A Jie Tang
+%A Philip S. Yu
+%D 2020
+%P 79–88
+%K recommender system, heterogeneous information network, graph neural networks
+%C Virtual Event, China
+
+%0 Conference Paper
+%T Enabling Real-Time Adaptivity in MOOCs with a Personalized Next-Step Recommendation Framework
+%@ 9781450344500
+%U https://doi.org/10.1145/3051457.3051471
+%R 10.1145/3051457.3051471
+%B Proceedings of the Fourth (2017) ACM Conference on Learning @ Scale
+%I Association for Computing Machinery
+%A Zachary A. Pardos
+%A Steven Tang
+%A Daniel Davis
+%A Christopher Vu Le
+%D 2017
+%P 23–32
+%K rnn, real-time intervention, personalization, navigational efficiency, mooc, edx, behavioral modeling, adaptivity
+%C Cambridge, Massachusetts, USA
+
+%0 Conference Paper
+%T Guess you like: course recommendation in MOOCs
+%@ 9781450349512
+%U https://doi.org/10.1145/3106426.3106478
+%R 10.1145/3106426.3106478
+%B Proceedings of the International Conference on Web Intelligence
+%I Association for Computing Machinery
+%A Xia Jing
+%A Jie Tang
+%D 2017
+%P 783–789
+%K personalization, course recommendation, MOOCs
+%C Leipzig, Germany
+

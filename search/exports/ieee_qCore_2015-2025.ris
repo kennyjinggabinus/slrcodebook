@@ -1,0 +1,333 @@
+TY  - CONF
+TI  - YACHAY - A fully integrated system to promote a flexible and personalized learning in HEI
+T2  - 2021 World Engineering Education Forum/Global Engineering Deans Council (WEEF/GEDC)
+SP  - 624
+EP  - 631
+AU  - E. G. y. Restrepo
+AU  - R. Morales
+AU  - A. Serrano-Mamolar
+AU  - O. Lachner
+AU  - F. Luis-Ferreira
+AU  - J. Sarraipa
+AU  - N. Vilhena
+AU  - J. G. Boticario
+PY  - 2021
+KW  - Knowledge engineering
+KW  - Technological innovation
+KW  - Education
+KW  - Europe
+KW  - Personnel
+KW  - Mentoring
+KW  - Portfolios
+KW  - e-profile
+KW  - e-portfolio
+KW  - credentials
+KW  - learning paths
+KW  - recommender system
+KW  - higher education
+DO  - 10.1109/WEEF/GEDC53299.2021.9657242
+JO  - 2021 World Engineering Education Forum/Global Engineering Deans Council (WEEF/GEDC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 World Engineering Education Forum/Global Engineering Deans Council (WEEF/GEDC)
+Y1  - 15-18 Nov. 2021
+AB  - There is an urgent need in Latin America to address the educational requirements of the 21st century in terms of flexibility, personalization, credentials and inclusion, thereby aligning with UNESCO's goals for quality education and those for equal access. To tackle these issues in synergy with business network the YachaY project proposes to establish a unified electronic portfolio system that suits Latin America's needs, develop a portable profile system to facilitate the personalization of learning, create guidelines and virtual courses aimed at teaching staff on the creation of customizable content in order to make it easier for students to choose their learning format and way that suits their needs and preferences, also providing a monitoring system to increase the quality level of university education; promote the flexibility of university curricula, facilitating the empowerment of students in the design of careers adapted to their needs and preferences in synergy with the productive system and labor market through a learning path recommendation system, and establishing a unified credentialing system, fostering university / labor market interoperability. We present a big picture and each of the components of the system, highlighting in some cases the defined use scenarios to finally briefly describe its architecture.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Technologies in E-learning and Intelligent Tutoring Systems
+T2  - 2021 International Conference on Information Technologies (InfoTech)
+SP  - 1
+EP  - 4
+AU  - T. I. Ivanova
+PY  - 2021
+KW  - Electronic learning
+KW  - Market research
+KW  - Information technology
+KW  - E-learning
+KW  - Intelligent Tutoring Systems
+KW  - survey
+KW  - ontology
+DO  - 10.1109/InfoTech52438.2021.9548438
+JO  - 2021 International Conference on Information Technologies (InfoTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Information Technologies (InfoTech)
+Y1  - 16-17 Sept. 2021
+AB  - This paper proposes results of the literature analysis of Intelligent Tutoring Systems (ITSs) from technological point of view. Exploring and classifying used architectures and technologies we outline important criteria for comparison of used intelligent technologies and it’s usefulness of for tutoring and learning and outline trends in the area of ITSs.
+ER  - 
+
+TY  - CONF
+TI  - A Recommender System for Machine Learning Pipelines' Design to Recognize Objects in Video Frames as a Learning Tool for Training Data Scientists
+T2  - 2024 International Russian Automation Conference (RusAutoCon)
+SP  - 881
+EP  - 886
+AU  - A. Dukhanov
+AU  - A. Smetatnin
+AU  - A. Luthenko
+PY  - 2024
+KW  - Information resources
+KW  - Automation
+KW  - Pipelines
+KW  - Training data
+KW  - Machine learning
+KW  - Tutorials
+KW  - Manuals
+KW  - Libraries
+KW  - Hybrid learning
+KW  - Recommender systems
+KW  - recommender system
+KW  - objects' recognition
+KW  - training in machine learning
+KW  - abstract hybrid learning resource
+DO  - 10.1109/RusAutoCon61949.2024.10694434
+JO  - 2024 International Russian Automation Conference (RusAutoCon)
+IS  - 
+SN  - 2836-614X
+VO  - 
+VL  - 
+JA  - 2024 International Russian Automation Conference (RusAutoCon)
+Y1  - 8-14 Sept. 2024
+AB  - This work-in-progress describes an approach to use a recommender system for machine learning pipelines' design to recognize objects in video frames as an electronic mean to train data scientists. We use the object-oriented entity called “Abstract hybrid learning resource” (AHLR) to unite in one information structure learning objects, data resources, text resources, application software, computing libraries, and instructional descriptions. The polymorphism features AHLR allows us to make various options of learning resources according to learning conditions, academic group and stunt's individual parameters, type of learning activities, etc., based on the eponymous method like “Lecture”, “Project, etc. The paper shows the use of a recommender system and its products, including recommended/generated pipelines, machine learning libraries, manuals, tutorials, and related scientific papers an information resources to build needed learning resource.
+ER  - 
+
+TY  - CONF
+TI  - Software Architecture for Adaptation and Recommendation of Course Content and Activities Based on Learning Analytics
+T2  - 2020 International Conference on Mathematics and Computers in Science and Engineering (MACISE)
+SP  - 16
+EP  - 19
+AU  - A. Aleksieva-Petrova
+AU  - V. Gancheva
+AU  - M. Petrov
+PY  - 2020
+KW  - Machine learning algorithms
+KW  - Data mining
+KW  - Software architecture
+KW  - Data models
+KW  - Prediction algorithms
+KW  - Machine learning
+KW  - Big Data
+KW  - adaptation
+KW  - activities logs
+KW  - averaged perceptron
+KW  - course
+KW  - learning analytic
+KW  - recommendation system
+DO  - 10.1109/MACISE49704.2020.00010
+JO  - 2020 International Conference on Mathematics and Computers in Science and Engineering (MACISE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Mathematics and Computers in Science and Engineering (MACISE)
+Y1  - 14-16 Jan. 2020
+AB  - Nowadays the main challenge in learning analytics is to suggest efficient methods and technologies in order to achieve better learner results. This paper presents a software architecture for adaptation and recommendation of course content and activities based on learning analytics. It is comprised of layers for ingestion layer, aggregation layer, storage layer and big data processing and analyses layer. An algorithm for prediction of student learning based on machine learning for processing and analysis of data and knowledge discovery with respect to main learner and teacher activities is presented. The proposed algorithm for student learning classification is implemented by using Averaged Perceptron method. Experimental results are presented and discussed. The purpose of the study is to apply the software architecture on learning analytics by practical experiments for specific case study identifying event elements in sequenced learners' and courses' activities logs, and student learning prediction.
+ER  - 
+
+TY  - CONF
+TI  - Edutrack: AI based Personalized Learning Through Secure Analytics
+T2  - 2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+SP  - 1126
+EP  - 1131
+AU  - K. T. Selvi
+AU  - S. S
+AU  - V. H. Shetty
+AU  - S. K. K
+AU  - S. Shenoy
+PY  - 2025
+KW  - Adaptive learning
+KW  - Adaptation models
+KW  - Scalability
+KW  - Chatbots
+KW  - Real-time systems
+KW  - Recommender systems
+KW  - Random forests
+KW  - Engines
+KW  - Monitoring
+KW  - Videos
+KW  - AI-powered education
+KW  - Adaptive learning
+KW  - Personalized learning
+KW  - Learning analytics
+KW  - Recommendation systems
+KW  - Student engagement
+KW  - Machine learning in education
+DO  - 10.1109/ICIMIA67127.2025.11200902
+JO  - 2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+Y1  - 3-5 Sept. 2025
+AB  - To Provide individualized, adaptable learning environments, EduTrack, an AI-powered learning platform, seeks to revolutionize higher education. EduTrack incorporates state-of-the-art technology to enhance academic performance and student engagement. It is built on the MERN stack and employs Python-based microservices for machine learning. The platform features a hybrid video recommendation engine, adaptive learning pathways, real-time AI chatbot, and extensive performance statistics. This report highlights the research gaps that EduTrack fills, especially in the areas of scalability, personalization, and real-time learner support—areas where existing AI platforms often fail. Teachers and students have their own dashboards with EduTrack. While students may access study materials, performance tracking, and AI-driven assistance, teachers can post resources, give tests, and monitor their progress. A learning style detection engine that can provide content in a personalized manner, an AI chatbot that can answer questions in real time using Gemini or OpenAI, a hybrid video recommendation system that blends collaborative and content-based filtering, and a test performance analyzer that can adapt learning paths to each user's needs are some of its primary features. EduTrack uses algorithms like Random Forest, SVD, Decision Trees, and NLP to deliver a personalized learning experience. Learning analytics and digital identity systems can be combined to give teachers data-driven insights that raise student performance and engagement. By combining intelligent digital learning with traditional models, EduTrack aims to create a flexible, effective, and inclusive learning environment for a variety of educational needs.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Distance Learning in African Universities: A Moodle Plugin for Personalized Support and Improved Engagement
+T2  - 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+SP  - 1
+EP  - 6
+AU  - A. M. Kachallah
+AU  - M. Ba
+AU  - T. Kondengar
+AU  - D. Fatimatou
+AU  - I. Dioum
+AU  - S. Ouya
+PY  - 2025
+KW  - Computer aided instruction
+KW  - Electronic learning
+KW  - Education
+KW  - Smart contracts
+KW  - Production
+KW  - Market research
+KW  - Monitoring
+KW  - Stress
+KW  - Faces
+KW  - Education
+KW  - Massification
+KW  - Asterisk
+KW  - Distance Learning
+KW  - Moodle
+KW  - Recommendations
+DO  - 10.1109/IRASET64571.2025.11008187
+JO  - 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+Y1  - 15-16 May 2025
+AB  - Faced with growing enrolments, a shortage of teaching staff and limited capacity, African universities are struggling to manage access to higher education, particularly in Senegal. Distance learning appears to be an essential solution to these challenges of massification and unequal access. However, distance learning platforms face a number of obstacles, such as the absence of personalized feedback, the lack of teacher time for individualized support, and students' difficulties in identifying relevant pedagogical resources. To overcome these limitations, we developed a Moodle plugin to integrate a detailed dashboard. This enables students to track their performance, access personalized recommendations, and teachers to automatically analyze assessments to detect trends and difficulties. A student feedback system has also been implemented, using Asterisk to launch automatic calls to students experiencing difficulties. This solution aims to improve efficiency and engagement in distance learning. Our future work focuses on Reducing university drop-outs through smart contract.
+ER  - 
+
+TY  - CONF
+TI  - MOOC architecture model for computer programming courses
+T2  - 2016 International Conference on Information Management and Technology (ICIMTech)
+SP  - 35
+EP  - 40
+AU  - B. Yulianto
+AU  - H. Prabowo
+AU  - R. Kosala
+AU  - M. Hapsara
+PY  - 2016
+KW  - Computational modeling
+KW  - Computer architecture
+KW  - Programming profession
+KW  - Adaptive systems
+KW  - Computers
+KW  - Discussion forums
+KW  - MOOC
+KW  - massive open online course
+KW  - architecture model
+KW  - programming
+KW  - blended learning
+KW  - learning outcome
+DO  - 10.1109/ICIMTech.2016.7930298
+JO  - 2016 International Conference on Information Management and Technology (ICIMTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Information Management and Technology (ICIMTech)
+Y1  - 16-18 Nov. 2016
+AB  - Computer programming courses are major contributor to non-passing rates and teaching the subject is significantly challenging. MOOC (Massive Open Online Course), a web-based LMS providing online courses, is a new popular learning media expected to facilitate better teaching-learning process for improving learning outcomes. Unfortunately, most of the current MOOCs are intended only for non-vocational (non-practical) learning and have set aside research on MOOC for computer programming courses. This study employed systematic literature review (SLR) method to summarize and review available functionalities as the core in designing a proposed MOOC architecture model. The proposed model covers application layers (user, system, and data layers) and adopts the theories of cognitive, constructive, and social situated learning. The proposed model is expected to provide guidance for institutions to develop their own MOOC and utilize it in blended learning processes to improve the outcome in computer programming courses.
+ER  - 
+
+TY  - CONF
+TI  - Technical Approaches for Personal Learning Environments: Identifying Archetypes from a Literature Review
+T2  - 2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)
+SP  - 473
+EP  - 477
+AU  - A. Kiy
+AU  - U. Lucke
+PY  - 2016
+KW  - Context
+KW  - Bibliographies
+KW  - Databases
+KW  - Mobile communication
+KW  - Mashups
+KW  - Blogs
+KW  - Personal Learning Environment
+KW  - PLE Archetypes
+KW  - PLE
+KW  - Institutional PLE
+KW  - PLE Framework
+DO  - 10.1109/ICALT.2016.122
+JO  - 2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)
+Y1  - 25-28 July 2016
+AB  - The term Personal Learning Environment (PLE) is associated with the desire to put the learner in control of his own learning process, so that he is able to set and accomplish the desired learning goals at the right time with the learning environment chosen by him. Gradually, such a learning environment includes several digital content, services and tools. It is thus summarized as the Virtual Learning Environment (VLE). Even though the construction of an individual PLE is a complex task, several approaches to support this process already exist. They mostly occur under the umbrella term PLE or with little accentuations like iPLE, which especially live within the context of institutions. This paper sums up the variety of attempts and technical approaches to establish a PLE and suggests a categorization for them.
+ER  - 
+
+TY  - CONF
+TI  - The Construction of Intelligent Learning System based on Deep Learning and Personalized Learning Recommendation Algorithm
+T2  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+SP  - 1
+EP  - 6
+AU  - B. Wang
+AU  - Z. Qu
+AU  - L. Gan
+PY  - 2025
+KW  - Learning systems
+KW  - Training
+KW  - Accuracy
+KW  - Computational modeling
+KW  - System performance
+KW  - Computer architecture
+KW  - Real-time systems
+KW  - Data models
+KW  - Robustness
+KW  - Time factors
+KW  - LSTM-attention-GCN
+KW  - intelligent learning system
+KW  - personalized learning
+KW  - system response time
+DO  - 10.1109/ICICKE65317.2025.11136557
+JO  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+Y1  - 6-7 June 2025
+AB  - Traditional learning systems have problems such as low recommendation accuracy and difficulty in adapting to changes in learning status in real time. This study proposes a smart learning system based on deep learning, which adopts a three-layer architecture design of "data-algorithm-service". The data layer builds a real-time data lake based on Delta Lake to integrate multimodal data; the algorithm layer designs an LSTM-Attention-GCN hybrid model, whose output constitutes the state space of the deep reinforcement learning recommender (DRL-PLR). The recommender adopts a dual DQN architecture and introduces cognitive load constraints; the service layer encapsulates the recommendation engine as a high-performance microservice, realizes automatic expansion and contraction based on Kubernetes, and combines Flink for stateful computing. The average recommendation accuracy of the intelligent learning system proposed in this study is 87.18%, the system response time is stable in the range of 202~431 milliseconds, and the knowledge path coverage rate reaches 91%~99.9%, which has high practicality in the field of personalized learning recommendation.
+ER  - 
+
+TY  - CONF
+TI  - Neural Educational Recommendation Engine (NERE)
+T2  - 2018 IEEE International Conference on Data Mining Workshops (ICDMW)
+SP  - 343
+EP  - 348
+AU  - M. Nadeem
+AU  - D. Stansbury
+AU  - S. Mooney
+PY  - 2018
+KW  - Recurrent neural networks
+KW  - Metadata
+KW  - Task analysis
+KW  - Collaboration
+KW  - Recommender systems
+KW  - Matrix decomposition
+KW  - Sparse matrices
+KW  - Recommender Systems, Education, Recurrent Neural Networks, Personalization, Collaborative Filtering, Content Filtering, Quizlet
+DO  - 10.1109/ICDMW.2018.00056
+JO  - 2018 IEEE International Conference on Data Mining Workshops (ICDMW)
+IS  - 
+SN  - 2375-9259
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Data Mining Workshops (ICDMW)
+Y1  - 17-20 Nov. 2018
+AB  - Quizlet is the most popular online learning tool in the United States, and is used by over 2/3 of high school students, and 1/2 of college students. With more than 95% of Quizlet users reporting improved grades as a result, the platform has become the de-facto tool used in millions of classrooms. In this paper, we explore the task of recommending suitable content for a student to study, given their prior interests, as well as what their peers are studying. We propose a novel approach, i.e. Neural Educational Recommendation Engine (NERE), to recommend educational content by leveraging student behaviors rather than ratings. We have found that this approach better captures social factors that are more aligned with learning. NERE is based on a recurrent neural network that includes collaborative and content-based approaches for recommendation, and takes into account any particular student's speed, mastery, and experience to recommend the appropriate task. We train NERE by jointly learning the user embeddings and content embeddings, and attempt to predict the content embedding for the final timestamp. We also develop a confidence estimator for our neural network, which is a crucial requirement for productionizing this model. We apply NERE to Quizlet's proprietary dataset, and present our results. We achieved an R2 score of 0.81 in the content embedding space, and a recall score of 54% on our 100 nearest neighbors. This vastly exceeds the recall@100 score of 12% that a standard matrix-factorization approach provides. We conclude with a discussion on how NERE will be deployed, and position our work as one of the first educational recommender systems for the K-12 space.
+ER  - 
+
+

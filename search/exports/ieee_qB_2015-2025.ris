@@ -1,0 +1,563 @@
+TY  - CONF
+TI  - A Preliminary Review on Mobile Users Trust-based Recommendation Systems
+T2  - 2020 IEEE Conference on e-Learning, e-Management and e-Services (IC3e)
+SP  - 76
+EP  - 81
+AU  - A. s. m. s. shibani
+AU  - M. S. Zakaria
+PY  - 2020
+KW  - Systematics
+KW  - Social networking (online)
+KW  - Quality of service
+KW  - User experience
+KW  - Trust management
+KW  - Interoperability
+KW  - Context modeling
+KW  - microservices
+KW  - trust
+KW  - recommendation model
+KW  - mobile architecture
+KW  - Service-Oriented Architecture
+DO  - 10.1109/IC3e50159.2020.9288384
+JO  - 2020 IEEE Conference on e-Learning, e-Management and e-Services (IC3e)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE Conference on e-Learning, e-Management and e-Services (IC3e)
+Y1  - 17-19 Nov. 2020
+AB  - Trust is the firm belief in the reliability, honesty, or ability of someone or something. However, in the era of the internet, we can argue that trust has eluded a proper definition. Consumers depend on services provided by service providers, which are in turn, dependent on the services provided by other service providers. The nature of interoperability of various services makes it difficult for consumers to have adequate knowledge of the dependencies of those services, which may not have any kind of security or Quality of Service (QoS) guarantee. The problem is compounded by the proliferation of various microservice-based models being utilized for interoperability. This paper is our first attempt to understand the issue of trust in the era of microservices. We reviewed relevant studies on both subjects (trust and microservices) to understand how trust models have been developed and implemented over the last 10 years. Our findings show that whilst service recommendation is maturing, trust management has not been thoroughly studied. Understanding of trust still remains vague due to the ambiguity of the concept of trust as well as the existence of divergent trust models in different contexts. Since microservice architecture is becoming a critical area to be studied in the area of service recommendations, and is a promising new architecture for trust management and future service-based implementation, this study is headed towards that direction.
+ER  - 
+
+TY  - CONF
+TI  - Software Architecture for Adaptation and Recommendation of Course Content and Activities Based on Learning Analytics
+T2  - 2020 International Conference on Mathematics and Computers in Science and Engineering (MACISE)
+SP  - 16
+EP  - 19
+AU  - A. Aleksieva-Petrova
+AU  - V. Gancheva
+AU  - M. Petrov
+PY  - 2020
+KW  - Machine learning algorithms
+KW  - Data mining
+KW  - Software architecture
+KW  - Data models
+KW  - Prediction algorithms
+KW  - Machine learning
+KW  - Big Data
+KW  - adaptation
+KW  - activities logs
+KW  - averaged perceptron
+KW  - course
+KW  - learning analytic
+KW  - recommendation system
+DO  - 10.1109/MACISE49704.2020.00010
+JO  - 2020 International Conference on Mathematics and Computers in Science and Engineering (MACISE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Mathematics and Computers in Science and Engineering (MACISE)
+Y1  - 14-16 Jan. 2020
+AB  - Nowadays the main challenge in learning analytics is to suggest efficient methods and technologies in order to achieve better learner results. This paper presents a software architecture for adaptation and recommendation of course content and activities based on learning analytics. It is comprised of layers for ingestion layer, aggregation layer, storage layer and big data processing and analyses layer. An algorithm for prediction of student learning based on machine learning for processing and analysis of data and knowledge discovery with respect to main learner and teacher activities is presented. The proposed algorithm for student learning classification is implemented by using Averaged Perceptron method. Experimental results are presented and discussed. The purpose of the study is to apply the software architecture on learning analytics by practical experiments for specific case study identifying event elements in sequenced learners' and courses' activities logs, and student learning prediction.
+ER  - 
+
+TY  - CONF
+TI  - A Recommender System for Machine Learning Pipelines' Design to Recognize Objects in Video Frames as a Learning Tool for Training Data Scientists
+T2  - 2024 International Russian Automation Conference (RusAutoCon)
+SP  - 881
+EP  - 886
+AU  - A. Dukhanov
+AU  - A. Smetatnin
+AU  - A. Luthenko
+PY  - 2024
+KW  - Information resources
+KW  - Automation
+KW  - Pipelines
+KW  - Training data
+KW  - Machine learning
+KW  - Tutorials
+KW  - Manuals
+KW  - Libraries
+KW  - Hybrid learning
+KW  - Recommender systems
+KW  - recommender system
+KW  - objects' recognition
+KW  - training in machine learning
+KW  - abstract hybrid learning resource
+DO  - 10.1109/RusAutoCon61949.2024.10694434
+JO  - 2024 International Russian Automation Conference (RusAutoCon)
+IS  - 
+SN  - 2836-614X
+VO  - 
+VL  - 
+JA  - 2024 International Russian Automation Conference (RusAutoCon)
+Y1  - 8-14 Sept. 2024
+AB  - This work-in-progress describes an approach to use a recommender system for machine learning pipelines' design to recognize objects in video frames as an electronic mean to train data scientists. We use the object-oriented entity called “Abstract hybrid learning resource” (AHLR) to unite in one information structure learning objects, data resources, text resources, application software, computing libraries, and instructional descriptions. The polymorphism features AHLR allows us to make various options of learning resources according to learning conditions, academic group and stunt's individual parameters, type of learning activities, etc., based on the eponymous method like “Lecture”, “Project, etc. The paper shows the use of a recommender system and its products, including recommended/generated pipelines, machine learning libraries, manuals, tutorials, and related scientific papers an information resources to build needed learning resource.
+ER  - 
+
+TY  - CONF
+TI  - Semantically enhanced decision support for learning management systems
+T2  - Proceedings of the 2015 IEEE 9th International Conference on Semantic Computing (IEEE ICSC 2015)
+SP  - 298
+EP  - 305
+AU  - M. Gavriushenko
+AU  - M. Kankaanranta
+AU  - P. Neittaanmäki
+PY  - 2015
+KW  - Least squares approximations
+KW  - Ontologies
+KW  - Service-oriented architecture
+KW  - Reliability
+KW  - Servers
+KW  - Facebook
+KW  - Learning Management System
+KW  - Ontology
+KW  - Recommendation system
+KW  - Semantic Technology
+KW  - SWRL-rules
+DO  - 10.1109/ICOSC.2015.7050823
+JO  - Proceedings of the 2015 IEEE 9th International Conference on Semantic Computing (IEEE ICSC 2015)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the 2015 IEEE 9th International Conference on Semantic Computing (IEEE ICSC 2015)
+Y1  - 7-9 Feb. 2015
+AB  - This article focuses on proposed semantically enhanced model of decision support system for learning management system (LMS). The model is based on a survey of LMSs and various plugins used in these to improve educational process. Systems based on semantic technologies are capable of integrating heterogeneous data, flexibly changing data schemas, semantic search (using ontologies), and joint knowledge development. The knowledge base that was developed for the proposed system model is presented in an ontological form. Ontology-based applications limit the "fragility" of the software and increase the likelihood of its reuse. In addition, they profitably redirect the efforts previously focused on software development and maintenance of creation and modification of knowledge structures. In the proposed knowledge base, we developed the necessary rules for further recommendations of specialization and courses for users. These recommendations are based on users' data extracted from profiles and user preferences.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Distance Learning in African Universities: A Moodle Plugin for Personalized Support and Improved Engagement
+T2  - 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+SP  - 1
+EP  - 6
+AU  - A. M. Kachallah
+AU  - M. Ba
+AU  - T. Kondengar
+AU  - D. Fatimatou
+AU  - I. Dioum
+AU  - S. Ouya
+PY  - 2025
+KW  - Computer aided instruction
+KW  - Electronic learning
+KW  - Education
+KW  - Smart contracts
+KW  - Production
+KW  - Market research
+KW  - Monitoring
+KW  - Stress
+KW  - Faces
+KW  - Education
+KW  - Massification
+KW  - Asterisk
+KW  - Distance Learning
+KW  - Moodle
+KW  - Recommendations
+DO  - 10.1109/IRASET64571.2025.11008187
+JO  - 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+Y1  - 15-16 May 2025
+AB  - Faced with growing enrolments, a shortage of teaching staff and limited capacity, African universities are struggling to manage access to higher education, particularly in Senegal. Distance learning appears to be an essential solution to these challenges of massification and unequal access. However, distance learning platforms face a number of obstacles, such as the absence of personalized feedback, the lack of teacher time for individualized support, and students' difficulties in identifying relevant pedagogical resources. To overcome these limitations, we developed a Moodle plugin to integrate a detailed dashboard. This enables students to track their performance, access personalized recommendations, and teachers to automatically analyze assessments to detect trends and difficulties. A student feedback system has also been implemented, using Asterisk to launch automatic calls to students experiencing difficulties. This solution aims to improve efficiency and engagement in distance learning. Our future work focuses on Reducing university drop-outs through smart contract.
+ER  - 
+
+TY  - CONF
+TI  - Web-Based Recommendation System Architecture for Knowledge Reuse in MOOCs Ecosystems
+T2  - 2018 IEEE International Conference on Information Reuse and Integration (IRI)
+SP  - 193
+EP  - 200
+AU  - R. Campos
+AU  - R. Pereira dos Santos
+AU  - J. Oliveira
+PY  - 2018
+KW  - Ecosystems
+KW  - Software
+KW  - Education
+KW  - Knowledge engineering
+KW  - Computer architecture
+KW  - Stakeholders
+KW  - Data mining
+KW  - Recommendation Systems, MOOCs Ecosystems, Software Architecture, Knowledge Reuse, Software Ecosystems
+DO  - 10.1109/IRI.2018.00036
+JO  - 2018 IEEE International Conference on Information Reuse and Integration (IRI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Information Reuse and Integration (IRI)
+Y1  - 6-9 July 2018
+AB  - With the success of MOOCs (Massive Open Online Courses) in recent years and the emergence of several courses in these environments, students face difficulties in choosing the best materials, modules or courses. Some recommendation systems have come up to address such problem. However, they provide recommendation limited to a specific MOOC provider. This work proposes an architecture of a web-based recommendation system to support students in finding suitable courses or materials to reach their interests. In addition, this work will raise the fundamental actors and roles of an underlying software ecosystem (SECO) and relate them to those involved in MOOCs ecosystems. The main motivation is that several elements of such ecosystems derive from virtual learning community ecosystems, failing to reproduce particularities of MOOCs learning community ecosystem. Therefore, the system resulting from this architecture also aims to achieve the knowledge reuse in these MOOCs ecosystems, i.e., demands, improvements and software sharing over the platforms.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Technologies in E-learning and Intelligent Tutoring Systems
+T2  - 2021 International Conference on Information Technologies (InfoTech)
+SP  - 1
+EP  - 4
+AU  - T. I. Ivanova
+PY  - 2021
+KW  - Electronic learning
+KW  - Market research
+KW  - Information technology
+KW  - E-learning
+KW  - Intelligent Tutoring Systems
+KW  - survey
+KW  - ontology
+DO  - 10.1109/InfoTech52438.2021.9548438
+JO  - 2021 International Conference on Information Technologies (InfoTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Information Technologies (InfoTech)
+Y1  - 16-17 Sept. 2021
+AB  - This paper proposes results of the literature analysis of Intelligent Tutoring Systems (ITSs) from technological point of view. Exploring and classifying used architectures and technologies we outline important criteria for comparison of used intelligent technologies and it’s usefulness of for tutoring and learning and outline trends in the area of ITSs.
+ER  - 
+
+TY  - CONF
+TI  - Edutrack: AI based Personalized Learning Through Secure Analytics
+T2  - 2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+SP  - 1126
+EP  - 1131
+AU  - K. T. Selvi
+AU  - S. S
+AU  - V. H. Shetty
+AU  - S. K. K
+AU  - S. Shenoy
+PY  - 2025
+KW  - Adaptive learning
+KW  - Adaptation models
+KW  - Scalability
+KW  - Chatbots
+KW  - Real-time systems
+KW  - Recommender systems
+KW  - Random forests
+KW  - Engines
+KW  - Monitoring
+KW  - Videos
+KW  - AI-powered education
+KW  - Adaptive learning
+KW  - Personalized learning
+KW  - Learning analytics
+KW  - Recommendation systems
+KW  - Student engagement
+KW  - Machine learning in education
+DO  - 10.1109/ICIMIA67127.2025.11200902
+JO  - 2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)
+Y1  - 3-5 Sept. 2025
+AB  - To Provide individualized, adaptable learning environments, EduTrack, an AI-powered learning platform, seeks to revolutionize higher education. EduTrack incorporates state-of-the-art technology to enhance academic performance and student engagement. It is built on the MERN stack and employs Python-based microservices for machine learning. The platform features a hybrid video recommendation engine, adaptive learning pathways, real-time AI chatbot, and extensive performance statistics. This report highlights the research gaps that EduTrack fills, especially in the areas of scalability, personalization, and real-time learner support—areas where existing AI platforms often fail. Teachers and students have their own dashboards with EduTrack. While students may access study materials, performance tracking, and AI-driven assistance, teachers can post resources, give tests, and monitor their progress. A learning style detection engine that can provide content in a personalized manner, an AI chatbot that can answer questions in real time using Gemini or OpenAI, a hybrid video recommendation system that blends collaborative and content-based filtering, and a test performance analyzer that can adapt learning paths to each user's needs are some of its primary features. EduTrack uses algorithms like Random Forest, SVD, Decision Trees, and NLP to deliver a personalized learning experience. Learning analytics and digital identity systems can be combined to give teachers data-driven insights that raise student performance and engagement. By combining intelligent digital learning with traditional models, EduTrack aims to create a flexible, effective, and inclusive learning environment for a variety of educational needs.
+ER  - 
+
+TY  - CONF
+TI  - Microservices Enterprise Architecture Design with AI-Powered OCR for Improving Fixed Broadband Complaint Handling: A Telco Company Case Study
+T2  - 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)
+SP  - 1
+EP  - 6
+AU  - I. S. Puspadarma
+AU  - I. Y. Mukti
+AU  - L. Ramadani
+PY  - 2025
+KW  - Automation
+KW  - Customer services
+KW  - Optical character recognition
+KW  - User centered design
+KW  - Microservice architectures
+KW  - Companies
+KW  - Complexity theory
+KW  - Broadband communication
+KW  - Artificial intelligence
+KW  - Usability
+KW  - artificial intelligence
+KW  - enterprise architecture
+KW  - microservices
+KW  - optical character recognition
+KW  - TOGAF
+DO  - 10.1109/ICADEIS65852.2025.10933216
+JO  - 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)
+Y1  - 3-4 Feb. 2025
+AB  - The rapid growth of internet users in Indonesia has increased the demand for efficient broadband services. This study proposes a microservices-based enterprise architecture integrating AI-powered Optical Character Recognition (OCR) and Natural Language Processing (NLP) with the Integrated Customer Management System (ICMS) and Knowledge Management System (KMS). The architecture addresses challenges arising from Fixed Mobile Convergence (FMC), which introduced complexities in customer service. Automating complaint categorization and solution retrieval through AIbased recommender systems improves accuracy, response times, and operational efficiency, supporting digital transformation goals. The current customer service processes rely heavily on manual intervention, causing inefficiencies like long wait times, especially on digital platforms. Leveraging TOGAF, this research designs a scalable architecture where OCR extracts data from unstructured sources, and NLP enables intelligent categorization and recommendations. Using Design Science Research Methodology, the study demonstrates the architecture's potential to enhance customer experience, streamline workflows, and optimize telco operations in a rapidly evolving technological landscape.
+ER  - 
+
+TY  - CONF
+TI  - YACHAY - A fully integrated system to promote a flexible and personalized learning in HEI
+T2  - 2021 World Engineering Education Forum/Global Engineering Deans Council (WEEF/GEDC)
+SP  - 624
+EP  - 631
+AU  - E. G. y. Restrepo
+AU  - R. Morales
+AU  - A. Serrano-Mamolar
+AU  - O. Lachner
+AU  - F. Luis-Ferreira
+AU  - J. Sarraipa
+AU  - N. Vilhena
+AU  - J. G. Boticario
+PY  - 2021
+KW  - Knowledge engineering
+KW  - Technological innovation
+KW  - Education
+KW  - Europe
+KW  - Personnel
+KW  - Mentoring
+KW  - Portfolios
+KW  - e-profile
+KW  - e-portfolio
+KW  - credentials
+KW  - learning paths
+KW  - recommender system
+KW  - higher education
+DO  - 10.1109/WEEF/GEDC53299.2021.9657242
+JO  - 2021 World Engineering Education Forum/Global Engineering Deans Council (WEEF/GEDC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 World Engineering Education Forum/Global Engineering Deans Council (WEEF/GEDC)
+Y1  - 15-18 Nov. 2021
+AB  - There is an urgent need in Latin America to address the educational requirements of the 21st century in terms of flexibility, personalization, credentials and inclusion, thereby aligning with UNESCO's goals for quality education and those for equal access. To tackle these issues in synergy with business network the YachaY project proposes to establish a unified electronic portfolio system that suits Latin America's needs, develop a portable profile system to facilitate the personalization of learning, create guidelines and virtual courses aimed at teaching staff on the creation of customizable content in order to make it easier for students to choose their learning format and way that suits their needs and preferences, also providing a monitoring system to increase the quality level of university education; promote the flexibility of university curricula, facilitating the empowerment of students in the design of careers adapted to their needs and preferences in synergy with the productive system and labor market through a learning path recommendation system, and establishing a unified credentialing system, fostering university / labor market interoperability. We present a big picture and each of the components of the system, highlighting in some cases the defined use scenarios to finally briefly describe its architecture.
+ER  - 
+
+TY  - JOUR
+TI  - HetGNN-KGAT: Enhancing Personalized Course Recommendation in MOOCs with Knowledge Graph Attention Networks
+T2  - IEEE Access
+SP  - 1
+EP  - 1
+AU  - T. Nguyen
+AU  - D. Do
+AU  - H. Vi
+AU  - K. T. VO
+AU  - T. -T. Ta
+AU  - P. Nguyen
+AU  - H. -T. Nguyen
+AU  - T. -A. Nguyen-Hoang
+PY  - 2025
+KW  - Electronic learning
+KW  - Computer aided instruction
+KW  - Imputation
+KW  - Accuracy
+KW  - Knowledge graphs
+KW  - Data models
+KW  - Recommender systems
+KW  - Data integrity
+KW  - Collaborative filtering
+KW  - Biological system modeling
+KW  - Educational technology
+KW  - Heterogeneous graphs
+KW  - Knowledge graphs
+KW  - MOOCs recommendation
+KW  - Personalized learning
+DO  - 10.1109/ACCESS.2025.3630894
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 
+VL  - 
+JA  - IEEE Access
+Y1  - 
+AB  - Personalized course recommendation is essential for enhancing learning in Massive Open Online Courses (MOOCs). However, MOOC data are typically sparse and incomplete, limiting the effectiveness of graph-based recommender models. To address this challenge, we propose HetGNN-KGAT, a two-stage framework that integrates Heterogeneous Graph Neural Networks (HetGNN) for imputing missing links and attributes with Knowledge Graph Attention Networks (KGAT) for capturing high-order relations. The contributions of this work are threefold. First, we present a graph-based imputation strategy that mitigates sparsity by enriching MOOC data through HetGNN. Second, we demonstrate that enriching the graph allows KGAT to operate more effectively, highlighting that the novelty lies not in simply combining two models but in strategically enabling KGAT to exploit sparse MOOC data. Third, we establish a systematic knowledge discovery pipeline that explicitly evaluates input data quality (completeness and consistency) alongside downstream recommendation performance (MAP, NDCG, Precision, Recall), providing a comprehensive view of how data enrichment improves recommendations. Extensive experiments on the MOOCCubeX dataset show that HetGNN-KGAT consistently outperforms strong baselines in both simulated and real-world scenarios. The framework achieves up to 23.55% relative improvement in MAP, 11.37% in F1-score, and 27.70% in NDCG under simulated conditions, with corresponding gains of 7.82%, 3.73%, and 9.24% in real-world settings. These results highlight that the proposed framework not only strengthens the accuracy of course ranking but also enhances the overall relevance and reliability of personalized recommendations. These results confirm the value of coupling data-quality enhancement with graph-based recommendation and offer practical insights for advancing adaptive educational technologies.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning-Driven Container Scheduling for Edge-Empowered Microservices
+T2  - 2025 IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)
+SP  - 1
+EP  - 6
+AU  - O. Baker
+AU  - W. Li
+AU  - H. Ma
+AU  - K. Subaramaniam
+AU  - D. Lopez
+AU  - S. Palaniappan
+PY  - 2025
+KW  - Job shop scheduling
+KW  - Processor scheduling
+KW  - Service robots
+KW  - Microservice architectures
+KW  - Machine learning
+KW  - Computer architecture
+KW  - Containers
+KW  - Nearest neighbor methods
+KW  - Bayes methods
+KW  - Edge computing
+KW  - Edge computing
+KW  - microservices architecture
+KW  - container scheduling strategy
+KW  - K-nearest neighbours
+KW  - Bayesian personalised ranking
+DO  - 10.1109/ROBOTHIA63806.2025.10986316
+JO  - 2025 IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)
+Y1  - 12-12 April 2025
+AB  - This research investigates the integration of machine learning technology into microservices architectures for edge-enabled container scheduling strategies. Deploying microservices applications can be intricate, while container virtualisation technology solves environmental complexities. However, container scheduling strategies remain challenging, and machine learning techniques can be leveraged to rapidly and rationally adjust strategies for different services. A comparative analysis of container scheduling strategies with and without machine learning demonstrates a 60.6% improvement in scheduling speed. The evaluation includes two algorithms: K-Nearest Neighbours (KNN) and Bayesian Personalised Ranking (BPR). Results indicate that BPR outperforms KNN, achieving an 11.1% increase in speed, particularly for large-scale datasets. These improvements highlight BPR's effectiveness in edge computing environments, where containerised microservices operate closer to data sources and end-users. Additionally, the proposed control strategy minimises resource allocation errors and enhances system scalability. The findings provide a framework for integrating machine learning into edge-native microservices architectures, optimising container scheduling for edge computing scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Technical Approaches for Personal Learning Environments: Identifying Archetypes from a Literature Review
+T2  - 2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)
+SP  - 473
+EP  - 477
+AU  - A. Kiy
+AU  - U. Lucke
+PY  - 2016
+KW  - Context
+KW  - Bibliographies
+KW  - Databases
+KW  - Mobile communication
+KW  - Mashups
+KW  - Blogs
+KW  - Personal Learning Environment
+KW  - PLE Archetypes
+KW  - PLE
+KW  - Institutional PLE
+KW  - PLE Framework
+DO  - 10.1109/ICALT.2016.122
+JO  - 2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)
+Y1  - 25-28 July 2016
+AB  - The term Personal Learning Environment (PLE) is associated with the desire to put the learner in control of his own learning process, so that he is able to set and accomplish the desired learning goals at the right time with the learning environment chosen by him. Gradually, such a learning environment includes several digital content, services and tools. It is thus summarized as the Virtual Learning Environment (VLE). Even though the construction of an individual PLE is a complex task, several approaches to support this process already exist. They mostly occur under the umbrella term PLE or with little accentuations like iPLE, which especially live within the context of institutions. This paper sums up the variety of attempts and technical approaches to establish a PLE and suggests a categorization for them.
+ER  - 
+
+TY  - JOUR
+TI  - Identifying Top-Performing Students via VKontakte Social Media Communities Using Advanced NLP Techniques
+T2  - IEEE Access
+SP  - 962
+EP  - 979
+AU  - S. S. Gorshkov
+AU  - D. I. Ignatov
+AU  - A. Y. Chernysheva
+AU  - V. L. Goiko
+AU  - V. V. Kashpur
+PY  - 2025
+KW  - Social networking (online)
+KW  - Encoding
+KW  - Bidirectional control
+KW  - Adaptation models
+KW  - Predictive models
+KW  - Natural language processing
+KW  - Transformers
+KW  - Vectors
+KW  - Prediction algorithms
+KW  - Feature extraction
+KW  - Digital footprint
+KW  - domain adaptation
+KW  - educational data mining
+KW  - information technologies in education
+KW  - natural language processing
+DO  - 10.1109/ACCESS.2024.3521857
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Identifying potentially high-performing students is crucial for universities aiming to enhance educational outcomes, for companies seeking to recruit top talents early, and for advertising platforms looking to optimize targeted marketing. This paper introduces an algorithm designed to identify students with exceptional academic performance by analyzing their subscriptions to communities on the social network VKontakte. The study examines a sample of 4445 students from Tomsk State University with publicly accessible VK profiles. The research methodology involves generating vector representations for each community based on embeddings, topic modeling, sentiment and emotion analysis, as well as text complexity metrics. To generate the embeddings, a separate model was trained and made publicly available on HuggingFace. The integration of diverse features was achieved using attention mechanisms, allowing the model to dynamically weigh their importance and capture intricate interrelations. These representations are then used to construct a digital user profile, capturing the students’ interests as reflected in their community subscriptions. Additionally, the machine learning pipeline incorporated stacking to combine predictions from multiple models, enhancing robustness and classification performance. Through a series of experiments, we developed a machine learning algorithm that effectively distinguishes between high- and low-performing students based on these profiles. This approach also enabled the identification and interpretation of key factors differentiating high-performing students from their lower-performing peers. Additionally, we investigated the factors positively and negatively associated with academic performance.
+ER  - 
+
+TY  - CONF
+TI  - The Construction of Intelligent Learning System based on Deep Learning and Personalized Learning Recommendation Algorithm
+T2  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+SP  - 1
+EP  - 6
+AU  - B. Wang
+AU  - Z. Qu
+AU  - L. Gan
+PY  - 2025
+KW  - Learning systems
+KW  - Training
+KW  - Accuracy
+KW  - Computational modeling
+KW  - System performance
+KW  - Computer architecture
+KW  - Real-time systems
+KW  - Data models
+KW  - Robustness
+KW  - Time factors
+KW  - LSTM-attention-GCN
+KW  - intelligent learning system
+KW  - personalized learning
+KW  - system response time
+DO  - 10.1109/ICICKE65317.2025.11136557
+JO  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE)
+Y1  - 6-7 June 2025
+AB  - Traditional learning systems have problems such as low recommendation accuracy and difficulty in adapting to changes in learning status in real time. This study proposes a smart learning system based on deep learning, which adopts a three-layer architecture design of "data-algorithm-service". The data layer builds a real-time data lake based on Delta Lake to integrate multimodal data; the algorithm layer designs an LSTM-Attention-GCN hybrid model, whose output constitutes the state space of the deep reinforcement learning recommender (DRL-PLR). The recommender adopts a dual DQN architecture and introduces cognitive load constraints; the service layer encapsulates the recommendation engine as a high-performance microservice, realizes automatic expansion and contraction based on Kubernetes, and combines Flink for stateful computing. The average recommendation accuracy of the intelligent learning system proposed in this study is 87.18%, the system response time is stable in the range of 202~431 milliseconds, and the knowledge path coverage rate reaches 91%~99.9%, which has high practicality in the field of personalized learning recommendation.
+ER  - 
+
+TY  - CONF
+TI  - Across Images and Graphs for Question Answering
+T2  - 2024 IEEE 40th International Conference on Data Engineering (ICDE)
+SP  - 1366
+EP  - 1379
+AU  - Z. Wen
+AU  - J. Qian
+AU  - B. Qian
+AU  - Q. Yuan
+AU  - J. Qin
+AU  - Q. Xuan
+AU  - Y. Yuan
+PY  - 2024
+KW  - Electronic learning
+KW  - Soft sensors
+KW  - Query processing
+KW  - Knowledge based systems
+KW  - Pipelines
+KW  - Transforms
+KW  - Knowledge graphs
+KW  - Data Mining and Knowledge Discovery
+KW  - Query Processing. Indexing and Optimization
+KW  - Text. Semi-Structured Data. IR. Image. and Multimedia databases
+DO  - 10.1109/ICDE60146.2024.00112
+JO  - 2024 IEEE 40th International Conference on Data Engineering (ICDE)
+IS  - 
+SN  - 2375-026X
+VO  - 
+VL  - 
+JA  - 2024 IEEE 40th International Conference on Data Engineering (ICDE)
+Y1  - 13-16 May 2024
+AB  - Cross-source query serves as a proxy for scene understanding to support many web applications such as rec-ommendation systems, e-commerce, and e-learning applications. In this paper, we propose SVQA that semantically combines the knowledge from available images and graphs to answer the complex question. To this end, we design a graph-based method to unify various data sources into one representation. We then develop a complex question parse method that utilizes the structure of languages to transform the query into a query graph. A graph query engine that performs the query graph over the unified data source while optimizing the query process. To evaluate the proposed system, we build a vanilla dataset called MVQA and show that the state-of-the-art (SOTA) VQA models fail to perform our task. The comprehensive evaluations show that the proposed SVQA is able to reason implicit relationships over multiple images and external knowledge to correctly answer a complex query. We hope that our first attempt provides researchers with a fresh taste of multimodal data analysis.
+ER  - 
+
+TY  - CONF
+TI  - [Front cover]
+T2  - 2016 4th IEEE International Colloquium on Information Science and Technology (CiSt)
+SP  - c1
+EP  - c1
+PY  - 2016
+DO  - 10.1109/CIST.2016.7804841
+JO  - 2016 4th IEEE International Colloquium on Information Science and Technology (CiSt)
+IS  - 
+SN  - 2327-1884
+VO  - 
+VL  - 
+JA  - 2016 4th IEEE International Colloquium on Information Science and Technology (CiSt)
+Y1  - 24-26 Oct. 2016
+AB  - The following topics are dealt with: enterprise architecture; E-learning; finance management system; ontology; SME; drug supply; inventory management; lean-maintenance; hospital logistics; FLOSS ERP system; UTAUT2; SEM; R; vertical handover; MIH architecture; intelligence E-CRM; ITIL framework; data quality; data warehouse security; good governance monitoring; TestNG tests; UML sequence diagrams; Scrum process; health data management system; Hadoop-Agent; data mining; RIA interfaces; XML technology; Web applications; social networks; spanning tree; PSO algorithm; MDA; CIM; PIM; SoaML; IFML; supply chain demand forecasts; game theory; business process verification; intrusion detection; stateful pattern matching; neural network; big incremental dynamic case-based reasoning-multi-agents system; BIDCBR-MAS; cloud computing; EA readiness instrument; reverse engineering; Web mining; information system security risk management; object oriented programs; partitioning filter; memetic hunting search algorithm; traveling salesman problem; SYSML language; KPI; project portfolio management information systems; information entropy; PPMIS; XBRL; GUI; Java source code analysis; crowdsourcing; critical infrastructures; CCSD; TOPSIS; AprioriMin; stock market price prediction; HP filter; association rules; k-means algorithm; automatic keyphrase extraction; distributed test architecture; dictionary Al-Qamus; text summarization; sign language; community question answering; distributional semantics; feature extraction; sentiment analysis; information retrieval; Lahajat; rule-based converter; data hiding; image cropping; LSB steganography; bag of features model; sampling theory; 3D segmentation algorithms; DSWT; DCT; GPU; adaptive learning system; Bayesian network; ALS_CORR[LP]; virtual labs; intelligent tutoring systems; MOOC; metadata; recommender system; smart curriculum sequencing; software engineering learning; IDE 2.0; Moodle; university of the future; dynamic programming; traffic signal control system; PHM as a service; mobile cloud; honeypots; genetic algorithm; QFN electronic package; response surface approach; EST.Stemmer; cloud database; homomorphic encryption; interoperability; IDS-AM-Clust; O&M cost simulation; fluid-structure interaction problems; spectrum allocation; cognitive radio system; vehicle path planning problem; tube hydroforming; liquidity; wind turbine blade; air-flow; identity management systems; harmony search algorithm; SCOR model; ARIS; embedded system; Pennes bioheat equation; max-cut problem; min-conflict heuristic; AHP method; Tr-OrBAC model; Q-learning; smart cities; extended Kalman filter; evolutionary machine learning; indoor localization; particle map matching; activity recognition; back-propagation algorithm; 4th generation heterogeneous wireless network; vehicular navigation spoofing detection; 2-D DOA estimation; MUSIC algorithm; uniform circular array; smart grid; residential microgrid; signaling DoS attacks; 3G mobile networks; safety instrumented system; routing process; VANET; intelligent transportation systems; wireless sensor networks; FPGA; pipelined AES S-box; disaster emergency system; alert message dissemination protocol; LEACH protocol; metacognitive learning management system; and self-regulated learning.
+ER  - 
+
+

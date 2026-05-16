@@ -1,0 +1,149 @@
+# /search/queries.txt
+# Paste an exact block per database run (keep all lines).
+
+DATABASE: IEEE Xplore
+RUN_AT: 2025-11-11T<20:56>+07:00 (local, Asia/Jakarta) / 2025-11-11T<13:56>Z (UTC)
+QUERY:
+(("recommender" OR "recommendation system") NEAR/3 (education OR learning))
+AND ("learning management system" OR LMS OR "e-learning" OR MOOC)
+AND ("software architecture" OR "architecture style" OR "architecture model" OR microservices OR "service-oriented" OR plugin OR pipeline OR "event-driven" OR Kubernetes OR Docker OR "MAPE-K" OR autoscaling)
+FILTERS: Publication Year 2015–2025; Content: Journals, Conferences
+EXPORT: RIS (Citations + Abstract + Author Keywords/Index Terms)
+FILES: ieee_qCore_2015-2025.ris
+RESULT_COUNT: 10
+---
+DATABASE: IEEE Xplore
+RUN_AT: 2025-11-11T<21:08>+07:00 (local, Asia/Jakarta) / 2025-11-11T<14:08>Z (UTC)
+QUERY:
+(recommender OR "recommendation system")
+AND ("learning management system" OR LMS OR "e-learning" OR MOOC)
+AND ("software architecture" OR microservices OR "service-oriented" OR plugin OR pipeline OR "event-driven")
+FILTERS: Publication Year 2015–2025; Content: Journals, Conferences
+EXPORT: RIS (Citations + Abstract + Author Keywords/Index Terms)
+FILES: ieee_qB_2015-2025.ris
+RESULT_COUNT: 17
+---
+DATABASE: IEEE Xplore
+RUN_AT: 2025-11-11T<21:11>+07:00 (local, Asia/Jakarta) / 2025-11-11T<14:11>Z (UTC)
+QUERY:
+(recommender OR "recommendation system")
+AND ("learning management system" OR LMS OR "e-learning" OR MOOC)
+AND (Kubernetes OR Docker OR autoscaling OR "MAPE-K")
+FILTERS: Publication Year 2015–2025; Content: Journals, Conferences
+EXPORT: RIS (Citations + Abstract + Author Keywords/Index Terms)
+FILES: ieee_qC_2015-2025.ris
+RESULT_COUNT: 2
+
+---
+
+DATABASE: ACM Digital Library
+RUN_AT: 2025-11-12T<23:36>+07:00 (local, Asia/Jakarta) / 2025-11-12T<16:36>Z (UTC)
+SEARCH ITEMS FROM: The ACM Full-Text Collection
+ROWS:
+- Row 1 — Title:
+  (recommender OR recommendation OR recommend*)
+- Row 2 — Title:
+  ("learning management system" OR "learning platform" OR "online learning" OR "e-learning" OR MOOC OR Moodle OR Canvas OR Blackboard)
+- Row 3 — Anywhere:
+  ("software architecture" OR architecture OR microservice* OR "service-oriented" OR SOA OR plugin* OR pipeline OR "event-driven" OR "system architecture")
+FILTERS:
+- Published between: 2015–2025
+- Published in: Proceedings, Journals
+EXPORT:
+- Format: EndNote (RIS), include Abstract + Keywords
+FILES: acm_qTitleTitle_2015-2025.ris
+RESULT_COUNT: 23
+
+---
+
+DATABASE: Scopus
+RUN_AT: 2025-11-13T<00:20>+07:00 (local, Asia/Jakarta) / 2025-11-12T<17:20>Z (UTC)
+QUERY:
+TITLE-ABS-KEY(recommender OR "recommendation system")
+AND TITLE-ABS-KEY("learning management system" OR "learning platform" OR "online learning" OR "e-learning" OR MOOC OR Moodle OR Canvas OR Blackboard)
+AND TITLE-ABS-KEY("software architecture" OR architecture)
+FILTERS:
+- PUBYEAR: 2015–2025
+- DOCTYPE: Article, Conference Paper
+- (optional) LANGUAGE: English
+EXPORT:
+- Format: RIS (Citation + Abstract + Author Keywords)
+FILES: scopus_qA_2015-2025.ris
+RESULT_COUNT: 145
+---
+DATABASE: Scopus
+RUN_AT: 2025-11-13T<00:26>+07:00 (local, Asia/Jakarta) / 2025-11-13T<17:26>Z (UTC)
+QUERY:
+TITLE-ABS-KEY(recommender OR "recommendation system")
+AND TITLE-ABS-KEY("learning management system" OR "learning platform" OR "online learning" OR "e-learning" OR MOOC OR Moodle OR Canvas OR Blackboard)
+AND TITLE-ABS-KEY("software architecture" OR architecture OR microservices OR "service-oriented" OR SOA OR plugin OR pipeline OR "event-driven")
+FILTERS:
+- PUBYEAR: 2015–2025
+- DOCTYPE: Article, Conference Paper
+- (optional) LANGUAGE: English
+EXPORT:
+- Format: RIS (Citation + Abstract + Author Keywords)
+FILES: scopus_qB_2015-2025.ris
+RESULT_COUNT: 153
+---
+DATABASE: Scopus
+RUN_AT: 2025-11-13T00:41+07:00 (local, Asia/Jakarta) / 2025-11-12T17:41Z (UTC)
+QUERY:
+TITLE-ABS-KEY(recommender OR "recommendation system")
+AND TITLE-ABS-KEY("learning management system" OR "learning platform" OR "online learning" OR "e-learning" OR MOOC OR Moodle OR Canvas OR Blackboard)
+AND TITLE-ABS-KEY(Kubernetes OR Docker OR container* OR orchestrat* OR autoscal* OR "MAPE-K")
+FILTERS:
+- PUBYEAR: 2015–2025
+- DOCTYPE: Article, Conference Paper
+EXPORT:
+- Format: RIS (Citation + Abstract + Author Keywords)
+FILES: scopus_qC_2015-2025.ris
+RESULT_COUNT: 3
+
+---
+
+DATABASE: SpringerLink
+RUN_AT: 2025-11-13T01:06+07:00 (local, Asia/Jakarta) / 2025-11-12T18:06Z (UTC)
+QUERY:
+(recommender OR "recommendation system")
+AND ("learning management system" OR Moodle OR Canvas OR Blackboard OR MOOC)
+AND ("software architecture" OR architecture)
+FILTERS:
+- Year: 2015–2025
+- Content type: Journal article, Conference paper
+- Discipline: Computer Science
+EXPORT: CSV (include Title, Authors, Year, DOI, Abstract, Keywords, URL, Source)
+FILES: springer_qA_2015-2025.csv
+RESULT_COUNT: 303
+---
+DATABASE: SpringerLink
+RUN_AT: 2025-11-13T01:17+07:00 (local, Asia/Jakarta) / 2025-11-12T18:17Z (UTC)
+QUERY:
+(recommender OR "recommendation system")
+AND ("learning management system" OR Moodle OR Canvas OR Blackboard OR MOOC)
+AND ("software architecture" OR microservices OR "service-oriented architecture" OR "service-oriented" OR SOA OR plugin OR pipeline OR "event-driven architecture" OR "event-driven")
+AND NOT ("library management system" OR "logistics management system" OR "license management system")
+FILTERS:
+- Year: 2015–2025
+- Content type: Journal article, Conference paper
+- Discipline: Computer Science
+EXPORT: CSV (Title, Authors, Year, DOI, Abstract, Keywords, URL, Source)
+FILES: springer_qB_2015-2025.csv
+RESULT_COUNT: 115
+---
+DATABASE: SpringerLink
+RUN_AT: 2025-11-13T01:23+07:00 (local, Asia/Jakarta) / 2025-11-12T18:23Z (UTC)
+QUERY:
+(recommender OR "recommendation system")
+AND ("learning management system" OR Moodle OR Canvas OR Blackboard OR MOOC)
+AND (Kubernetes OR Docker OR container* OR orchestrat* OR autoscal* OR "MAPE-K")
+AND NOT ("library management system" OR "logistics management system" OR "license management system")
+FILTERS:
+- Year: 2015–2025
+- Content type: Journal article, Conference paper
+- Discipline: Computer Science
+EXPORT: CSV (Title, Authors, Year, DOI, Abstract, Keywords, URL, Source)
+FILES: springer_qC_2015-2025.csv
+RESULT_COUNT: 112
+
+---
